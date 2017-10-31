@@ -1,6 +1,6 @@
 /**
  * Webpack loader used to inject Webpack code into `i18n-calypso` module to
- * load asyncronously the current locale.
+ * load asynchronously the current locale.
  */
 
 module.exports = function( content ) {
